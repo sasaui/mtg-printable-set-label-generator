@@ -1,0 +1,522 @@
+<svg version="1.1"
+     baseProfile="full"
+     width="279.0mm" height="216.0mm"
+     viewBox="0 0 2790 2160"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink">
+
+    
+        <g>
+            <!-- Born of the Gods -->
+            <text x="230" y="230" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Born of the Gods</text>
+            <text x="230" y="270" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">BNG - February 2014</text>
+            <image x="690" y="220" width="70" height="70" href="https://c2.scryfall.com/file/scryfall-symbols/sets/bng.svg?1631505600" />
+        </g>
+    
+        <g>
+            <!-- Duel Decks: Jace vs. Vraska -->
+            <text x="230" y="347.3333333333333" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Duel Decks: Jace vs. Vraska</text>
+            <text x="230" y="387.3333333333333" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">DDM - March 2014</text>
+            <image x="690" y="337.3333333333333" width="70" height="70" href="https://c2.scryfall.com/file/scryfall-symbols/sets/ddm.svg?1631505600" />
+        </g>
+    
+        <g>
+            <!-- Journey into Nyx -->
+            <text x="230" y="464.66666666666663" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Journey into Nyx</text>
+            <text x="230" y="504.66666666666663" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">JOU - May 2014</text>
+            <image x="690" y="454.66666666666663" width="70" height="70" href="https://c2.scryfall.com/file/scryfall-symbols/sets/jou.svg?1631505600" />
+        </g>
+    
+        <g>
+            <!-- Conspiracy -->
+            <text x="230" y="582.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Conspiracy</text>
+            <text x="230" y="622.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">CNS - June 2014</text>
+            <image x="690" y="572.0" width="70" height="70" href="https://c2.scryfall.com/file/scryfall-symbols/sets/cns.svg?1631505600" />
+        </g>
+    
+        <g>
+            <!-- Magic 2015 -->
+            <text x="230" y="699.3333333333334" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Magic 2015</text>
+            <text x="230" y="739.3333333333334" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">M15 - July 2014</text>
+            <image x="690" y="689.3333333333334" width="70" height="70" href="https://c2.scryfall.com/file/scryfall-symbols/sets/m15.svg?1631505600" />
+        </g>
+    
+        <g>
+            <!-- DD: Speed vs. Cunning -->
+            <text x="230" y="816.6666666666667" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">DD: Speed vs. Cunning</text>
+            <text x="230" y="856.6666666666667" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">DDN - September 2014</text>
+            <image x="690" y="806.6666666666667" width="70" height="70" href="https://c2.scryfall.com/file/scryfall-symbols/sets/ddn.svg?1631505600" />
+        </g>
+    
+        <g>
+            <!-- Khans of Tarkir -->
+            <text x="230" y="934.0000000000001" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Khans of Tarkir</text>
+            <text x="230" y="974.0000000000001" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">KTK - September 2014</text>
+            <image x="690" y="924.0000000000001" width="70" height="70" href="https://c2.scryfall.com/file/scryfall-symbols/sets/ktk.svg?1631505600" />
+        </g>
+    
+        <g>
+            <!-- Commander 2014 -->
+            <text x="230" y="1051.3333333333335" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Commander 2014</text>
+            <text x="230" y="1091.3333333333335" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">C14 - November 2014</text>
+            <image x="690" y="1041.3333333333335" width="70" height="70" href="https://c2.scryfall.com/file/scryfall-symbols/sets/c14.svg?1631505600" />
+        </g>
+    
+        <g>
+            <!-- DDA: Jace vs. Chandra -->
+            <text x="230" y="1168.6666666666667" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">DDA: Jace vs. Chandra</text>
+            <text x="230" y="1208.6666666666667" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">JVC - December 2014</text>
+            <image x="690" y="1158.6666666666667" width="70" height="70" href="https://c2.scryfall.com/file/scryfall-symbols/sets/dd2.svg?1631505600" />
+        </g>
+    
+        <g>
+            <!-- DDA: Garruk vs. Liliana -->
+            <text x="230" y="1286.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">DDA: Garruk vs. Liliana</text>
+            <text x="230" y="1326.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">GVL - December 2014</text>
+            <image x="690" y="1276.0" width="70" height="70" href="https://c2.scryfall.com/file/scryfall-symbols/sets/ddd.svg?1631505600" />
+        </g>
+    
+        <g>
+            <!-- DDA: Divine vs. Demonic -->
+            <text x="230" y="1403.3333333333333" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">DDA: Divine vs. Demonic</text>
+            <text x="230" y="1443.3333333333333" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">DVD - December 2014</text>
+            <image x="690" y="1393.3333333333333" width="70" height="70" href="https://c2.scryfall.com/file/scryfall-symbols/sets/ddc.svg?1631505600" />
+        </g>
+    
+        <g>
+            <!-- DDA: Elves vs. Goblins -->
+            <text x="230" y="1520.6666666666665" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">DDA: Elves vs. Goblins</text>
+            <text x="230" y="1560.6666666666665" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">EVG - December 2014</text>
+            <image x="690" y="1510.6666666666665" width="70" height="70" href="https://c2.scryfall.com/file/scryfall-symbols/sets/dd1.svg?1631505600" />
+        </g>
+    
+        <g>
+            <!-- Fate Reforged -->
+            <text x="230" y="1637.9999999999998" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Fate Reforged</text>
+            <text x="230" y="1677.9999999999998" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">FRF - January 2015</text>
+            <image x="690" y="1627.9999999999998" width="70" height="70" href="https://c2.scryfall.com/file/scryfall-symbols/sets/frf.svg?1631505600" />
+        </g>
+    
+        <g>
+            <!-- DD: Elspeth vs. Kiora -->
+            <text x="230" y="1755.333333333333" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">DD: Elspeth vs. Kiora</text>
+            <text x="230" y="1795.333333333333" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">DDO - February 2015</text>
+            <image x="690" y="1745.333333333333" width="70" height="70" href="https://c2.scryfall.com/file/scryfall-symbols/sets/ddo.svg?1631505600" />
+        </g>
+    
+        <g>
+            <!-- Dragons of Tarkir -->
+            <text x="230" y="1872.6666666666663" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Dragons of Tarkir</text>
+            <text x="230" y="1912.6666666666663" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">DTK - March 2015</text>
+            <image x="690" y="1862.6666666666663" width="70" height="70" href="https://c2.scryfall.com/file/scryfall-symbols/sets/dtk.svg?1631505600" />
+        </g>
+    
+        <g>
+            <!-- Modern Masters 2015 -->
+            <text x="827.5" y="230" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Modern Masters 2015</text>
+            <text x="827.5" y="270" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">MM2 - May 2015</text>
+            <image x="1287.5" y="220" width="70" height="70" href="https://c2.scryfall.com/file/scryfall-symbols/sets/mm2.svg?1631505600" />
+        </g>
+    
+        <g>
+            <!-- Magic Origins -->
+            <text x="827.5" y="347.3333333333333" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Magic Origins</text>
+            <text x="827.5" y="387.3333333333333" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">ORI - July 2015</text>
+            <image x="1287.5" y="337.3333333333333" width="70" height="70" href="https://c2.scryfall.com/file/scryfall-symbols/sets/ori.svg?1631505600" />
+        </g>
+    
+        <g>
+            <!-- DD: Zendikar vs. Eldrazi -->
+            <text x="827.5" y="464.66666666666663" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">DD: Zendikar vs. Eldrazi</text>
+            <text x="827.5" y="504.66666666666663" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">DDP - August 2015</text>
+            <image x="1287.5" y="454.66666666666663" width="70" height="70" href="https://c2.scryfall.com/file/scryfall-symbols/sets/ddp.svg?1631505600" />
+        </g>
+    
+        <g>
+            <!-- Battle for Zendikar -->
+            <text x="827.5" y="582.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Battle for Zendikar</text>
+            <text x="827.5" y="622.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">BFZ - October 2015</text>
+            <image x="1287.5" y="572.0" width="70" height="70" href="https://c2.scryfall.com/file/scryfall-symbols/sets/bfz.svg?1631505600" />
+        </g>
+    
+        <g>
+            <!-- Commander 2015 -->
+            <text x="827.5" y="699.3333333333334" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Commander 2015</text>
+            <text x="827.5" y="739.3333333333334" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">C15 - November 2015</text>
+            <image x="1287.5" y="689.3333333333334" width="70" height="70" href="https://c2.scryfall.com/file/scryfall-symbols/sets/c15.svg?1631505600" />
+        </g>
+    
+        <g>
+            <!-- Oath of the Gatewatch -->
+            <text x="827.5" y="816.6666666666667" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Oath of the Gatewatch</text>
+            <text x="827.5" y="856.6666666666667" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">OGW - January 2016</text>
+            <image x="1287.5" y="806.6666666666667" width="70" height="70" href="https://c2.scryfall.com/file/scryfall-symbols/sets/ogw.svg?1631505600" />
+        </g>
+    
+        <g>
+            <!-- DD: Blessed vs. Cursed -->
+            <text x="827.5" y="934.0000000000001" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">DD: Blessed vs. Cursed</text>
+            <text x="827.5" y="974.0000000000001" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">DDQ - February 2016</text>
+            <image x="1287.5" y="924.0000000000001" width="70" height="70" href="https://c2.scryfall.com/file/scryfall-symbols/sets/ddq.svg?1631505600" />
+        </g>
+    
+        <g>
+            <!-- Shadows over Innistrad -->
+            <text x="827.5" y="1051.3333333333335" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Shadows over Innistrad</text>
+            <text x="827.5" y="1091.3333333333335" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">SOI - April 2016</text>
+            <image x="1287.5" y="1041.3333333333335" width="70" height="70" href="https://c2.scryfall.com/file/scryfall-symbols/sets/soi.svg?1631505600" />
+        </g>
+    
+        <g>
+            <!-- Eternal Masters -->
+            <text x="827.5" y="1168.6666666666667" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Eternal Masters</text>
+            <text x="827.5" y="1208.6666666666667" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">EMA - June 2016</text>
+            <image x="1287.5" y="1158.6666666666667" width="70" height="70" href="https://c2.scryfall.com/file/scryfall-symbols/sets/ema.svg?1631505600" />
+        </g>
+    
+        <g>
+            <!-- Eldritch Moon -->
+            <text x="827.5" y="1286.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Eldritch Moon</text>
+            <text x="827.5" y="1326.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">EMN - July 2016</text>
+            <image x="1287.5" y="1276.0" width="70" height="70" href="https://c2.scryfall.com/file/scryfall-symbols/sets/emn.svg?1631505600" />
+        </g>
+    
+        <g>
+            <!-- Conspiracy: Take the Crown -->
+            <text x="827.5" y="1403.3333333333333" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Conspiracy: Take the Crown</text>
+            <text x="827.5" y="1443.3333333333333" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">CN2 - August 2016</text>
+            <image x="1287.5" y="1393.3333333333333" width="70" height="70" href="https://c2.scryfall.com/file/scryfall-symbols/sets/cn2.svg?1631505600" />
+        </g>
+    
+        <g>
+            <!-- DD: Nissa vs. Ob Nixilis -->
+            <text x="827.5" y="1520.6666666666665" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">DD: Nissa vs. Ob Nixilis</text>
+            <text x="827.5" y="1560.6666666666665" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">DDR - September 2016</text>
+            <image x="1287.5" y="1510.6666666666665" width="70" height="70" href="https://c2.scryfall.com/file/scryfall-symbols/sets/ddr.svg?1631505600" />
+        </g>
+    
+        <g>
+            <!-- Kaladesh -->
+            <text x="827.5" y="1637.9999999999998" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Kaladesh</text>
+            <text x="827.5" y="1677.9999999999998" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">KLD - September 2016</text>
+            <image x="1287.5" y="1627.9999999999998" width="70" height="70" href="https://c2.scryfall.com/file/scryfall-symbols/sets/kld.svg?1631505600" />
+        </g>
+    
+        <g>
+            <!-- Commander 2016 -->
+            <text x="827.5" y="1755.333333333333" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Commander 2016</text>
+            <text x="827.5" y="1795.333333333333" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">C16 - November 2016</text>
+            <image x="1287.5" y="1745.333333333333" width="70" height="70" href="https://c2.scryfall.com/file/scryfall-symbols/sets/c16.svg?1631505600" />
+        </g>
+    
+        <g>
+            <!-- Planechase Anthology -->
+            <text x="827.5" y="1872.6666666666663" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Planechase Anthology</text>
+            <text x="827.5" y="1912.6666666666663" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">PCA - November 2016</text>
+            <image x="1287.5" y="1862.6666666666663" width="70" height="70" href="https://c2.scryfall.com/file/scryfall-symbols/sets/pca.svg?1631505600" />
+        </g>
+    
+        <g>
+            <!-- Aether Revolt -->
+            <text x="1425.0" y="230" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Aether Revolt</text>
+            <text x="1425.0" y="270" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">AER - January 2017</text>
+            <image x="1885.0" y="220" width="70" height="70" href="https://c2.scryfall.com/file/scryfall-symbols/sets/aer.svg?1631505600" />
+        </g>
+    
+        <g>
+            <!-- Modern Masters 2017 -->
+            <text x="1425.0" y="347.3333333333333" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Modern Masters 2017</text>
+            <text x="1425.0" y="387.3333333333333" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">MM3 - March 2017</text>
+            <image x="1885.0" y="337.3333333333333" width="70" height="70" href="https://c2.scryfall.com/file/scryfall-symbols/sets/mm3.svg?1631505600" />
+        </g>
+    
+        <g>
+            <!-- Duel Decks: Mind vs. Might -->
+            <text x="1425.0" y="464.66666666666663" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Duel Decks: Mind vs. Might</text>
+            <text x="1425.0" y="504.66666666666663" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">DDS - March 2017</text>
+            <image x="1885.0" y="454.66666666666663" width="70" height="70" href="https://c2.scryfall.com/file/scryfall-symbols/sets/dds.svg?1631505600" />
+        </g>
+    
+        <g>
+            <!-- Amonkhet -->
+            <text x="1425.0" y="582.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Amonkhet</text>
+            <text x="1425.0" y="622.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">AKH - April 2017</text>
+            <image x="1885.0" y="572.0" width="70" height="70" href="https://c2.scryfall.com/file/scryfall-symbols/sets/akh.svg?1631505600" />
+        </g>
+    
+        <g>
+            <!-- Commander Anthology -->
+            <text x="1425.0" y="699.3333333333334" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Commander Anthology</text>
+            <text x="1425.0" y="739.3333333333334" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">CMA - June 2017</text>
+            <image x="1885.0" y="689.3333333333334" width="70" height="70" href="https://c2.scryfall.com/file/scryfall-symbols/sets/cma.svg?1631505600" />
+        </g>
+    
+        <g>
+            <!-- Archenemy: Nicol Bolas -->
+            <text x="1425.0" y="816.6666666666667" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Archenemy: Nicol Bolas</text>
+            <text x="1425.0" y="856.6666666666667" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">E01 - June 2017</text>
+            <image x="1885.0" y="806.6666666666667" width="70" height="70" href="https://c2.scryfall.com/file/scryfall-symbols/sets/e01.svg?1631505600" />
+        </g>
+    
+        <g>
+            <!-- Hour of Devastation -->
+            <text x="1425.0" y="934.0000000000001" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Hour of Devastation</text>
+            <text x="1425.0" y="974.0000000000001" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">HOU - July 2017</text>
+            <image x="1885.0" y="924.0000000000001" width="70" height="70" href="https://c2.scryfall.com/file/scryfall-symbols/sets/hou.svg?1631505600" />
+        </g>
+    
+        <g>
+            <!-- Commander 2017 -->
+            <text x="1425.0" y="1051.3333333333335" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Commander 2017</text>
+            <text x="1425.0" y="1091.3333333333335" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">C17 - August 2017</text>
+            <image x="1885.0" y="1041.3333333333335" width="70" height="70" href="https://c2.scryfall.com/file/scryfall-symbols/sets/c17.svg?1631505600" />
+        </g>
+    
+        <g>
+            <!-- Ixalan -->
+            <text x="1425.0" y="1168.6666666666667" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Ixalan</text>
+            <text x="1425.0" y="1208.6666666666667" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">XLN - September 2017</text>
+            <image x="1885.0" y="1158.6666666666667" width="70" height="70" href="https://c2.scryfall.com/file/scryfall-symbols/sets/xln.svg?1631505600" />
+        </g>
+    
+        <g>
+            <!-- DD: Merfolk vs. Goblins -->
+            <text x="1425.0" y="1286.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">DD: Merfolk vs. Goblins</text>
+            <text x="1425.0" y="1326.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">DDT - October 2017</text>
+            <image x="1885.0" y="1276.0" width="70" height="70" href="https://c2.scryfall.com/file/scryfall-symbols/sets/ddt.svg?1631505600" />
+        </g>
+    
+        <g>
+            <!-- Iconic Masters -->
+            <text x="1425.0" y="1403.3333333333333" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Iconic Masters</text>
+            <text x="1425.0" y="1443.3333333333333" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">IMA - November 2017</text>
+            <image x="1885.0" y="1393.3333333333333" width="70" height="70" href="https://c2.scryfall.com/file/scryfall-symbols/sets/ima.svg?1631505600" />
+        </g>
+    
+        <g>
+            <!-- Unstable -->
+            <text x="1425.0" y="1520.6666666666665" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Unstable</text>
+            <text x="1425.0" y="1560.6666666666665" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">UST - December 2017</text>
+            <image x="1885.0" y="1510.6666666666665" width="70" height="70" href="https://c2.scryfall.com/file/scryfall-symbols/sets/ust.svg?1631505600" />
+        </g>
+    
+        <g>
+            <!-- Rivals of Ixalan -->
+            <text x="1425.0" y="1637.9999999999998" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Rivals of Ixalan</text>
+            <text x="1425.0" y="1677.9999999999998" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">RIX - January 2018</text>
+            <image x="1885.0" y="1627.9999999999998" width="70" height="70" href="https://c2.scryfall.com/file/scryfall-symbols/sets/rix.svg?1631505600" />
+        </g>
+    
+        <g>
+            <!-- Masters 25 -->
+            <text x="1425.0" y="1755.333333333333" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Masters 25</text>
+            <text x="1425.0" y="1795.333333333333" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">A25 - March 2018</text>
+            <image x="1885.0" y="1745.333333333333" width="70" height="70" href="https://c2.scryfall.com/file/scryfall-symbols/sets/a25.svg?1631505600" />
+        </g>
+    
+        <g>
+            <!-- DD: Elves vs. Inventors -->
+            <text x="1425.0" y="1872.6666666666663" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">DD: Elves vs. Inventors</text>
+            <text x="1425.0" y="1912.6666666666663" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">DDU - April 2018</text>
+            <image x="1885.0" y="1862.6666666666663" width="70" height="70" href="https://c2.scryfall.com/file/scryfall-symbols/sets/ddu.svg?1631505600" />
+        </g>
+    
+        <g>
+            <!-- Dominaria -->
+            <text x="2022.5" y="230" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Dominaria</text>
+            <text x="2022.5" y="270" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">DOM - April 2018</text>
+            <image x="2482.5" y="220" width="70" height="70" href="https://c2.scryfall.com/file/scryfall-symbols/sets/dom.svg?1631505600" />
+        </g>
+    
+        <g>
+            <!-- Commander Anthology II -->
+            <text x="2022.5" y="347.3333333333333" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Commander Anthology II</text>
+            <text x="2022.5" y="387.3333333333333" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">CM2 - June 2018</text>
+            <image x="2482.5" y="337.3333333333333" width="70" height="70" href="https://c2.scryfall.com/file/scryfall-symbols/sets/cm2.svg?1631505600" />
+        </g>
+    
+        <g>
+            <!-- Battlebond -->
+            <text x="2022.5" y="464.66666666666663" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Battlebond</text>
+            <text x="2022.5" y="504.66666666666663" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">BBD - June 2018</text>
+            <image x="2482.5" y="454.66666666666663" width="70" height="70" href="https://c2.scryfall.com/file/scryfall-symbols/sets/bbd.svg?1631505600" />
+        </g>
+    
+        <g>
+            <!-- Core Set 2019 -->
+            <text x="2022.5" y="582.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Core Set 2019</text>
+            <text x="2022.5" y="622.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">M19 - July 2018</text>
+            <image x="2482.5" y="572.0" width="70" height="70" href="https://c2.scryfall.com/file/scryfall-symbols/sets/m19.svg?1631505600" />
+        </g>
+    
+        <g>
+            <!-- Commander 2018 -->
+            <text x="2022.5" y="699.3333333333334" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Commander 2018</text>
+            <text x="2022.5" y="739.3333333333334" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">C18 - August 2018</text>
+            <image x="2482.5" y="689.3333333333334" width="70" height="70" href="https://c2.scryfall.com/file/scryfall-symbols/sets/c18.svg?1631505600" />
+        </g>
+    
+        <g>
+            <!-- Guilds of Ravnica -->
+            <text x="2022.5" y="816.6666666666667" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Guilds of Ravnica</text>
+            <text x="2022.5" y="856.6666666666667" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">GRN - October 2018</text>
+            <image x="2482.5" y="806.6666666666667" width="70" height="70" href="https://c2.scryfall.com/file/scryfall-symbols/sets/grn.svg?1631505600" />
+        </g>
+    
+        <g>
+            <!-- GRN Guild Kit -->
+            <text x="2022.5" y="934.0000000000001" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">GRN Guild Kit</text>
+            <text x="2022.5" y="974.0000000000001" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">GK1 - November 2018</text>
+            <image x="2482.5" y="924.0000000000001" width="70" height="70" href="https://c2.scryfall.com/file/scryfall-symbols/sets/grn.svg?1631505600" />
+        </g>
+    
+        <g>
+            <!-- Game Night -->
+            <text x="2022.5" y="1051.3333333333335" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Game Night</text>
+            <text x="2022.5" y="1091.3333333333335" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">GNT - November 2018</text>
+            <image x="2482.5" y="1041.3333333333335" width="70" height="70" href="https://c2.scryfall.com/file/scryfall-symbols/sets/gnt.svg?1631505600" />
+        </g>
+    
+        <g>
+            <!-- Ultimate Masters -->
+            <text x="2022.5" y="1168.6666666666667" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Ultimate Masters</text>
+            <text x="2022.5" y="1208.6666666666667" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">UMA - December 2018</text>
+            <image x="2482.5" y="1158.6666666666667" width="70" height="70" href="https://c2.scryfall.com/file/scryfall-symbols/sets/uma.svg?1631505600" />
+        </g>
+    
+        <g>
+            <!-- Planechase Anth. Planes -->
+            <text x="2022.5" y="1286.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Planechase Anth. Planes</text>
+            <text x="2022.5" y="1326.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">OPCA - December 2018</text>
+            <image x="2482.5" y="1276.0" width="70" height="70" href="https://c2.scryfall.com/file/scryfall-symbols/sets/pca.svg?1631505600" />
+        </g>
+    
+        <g>
+            <!-- Ravnica Allegiance -->
+            <text x="2022.5" y="1403.3333333333333" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Ravnica Allegiance</text>
+            <text x="2022.5" y="1443.3333333333333" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">RNA - January 2019</text>
+            <image x="2482.5" y="1393.3333333333333" width="70" height="70" href="https://c2.scryfall.com/file/scryfall-symbols/sets/rna.svg?1631505600" />
+        </g>
+    
+        <g>
+            <!-- RNA Guild Kit -->
+            <text x="2022.5" y="1520.6666666666665" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">RNA Guild Kit</text>
+            <text x="2022.5" y="1560.6666666666665" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">GK2 - February 2019</text>
+            <image x="2482.5" y="1510.6666666666665" width="70" height="70" href="https://c2.scryfall.com/file/scryfall-symbols/sets/rna.svg?1631505600" />
+        </g>
+    
+        <g>
+            <!-- War of the Spark -->
+            <text x="2022.5" y="1637.9999999999998" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">War of the Spark</text>
+            <text x="2022.5" y="1677.9999999999998" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">WAR - May 2019</text>
+            <image x="2482.5" y="1627.9999999999998" width="70" height="70" href="https://c2.scryfall.com/file/scryfall-symbols/sets/war.svg?1631505600" />
+        </g>
+    
+        <g>
+            <!-- Modern Horizons -->
+            <text x="2022.5" y="1755.333333333333" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Modern Horizons</text>
+            <text x="2022.5" y="1795.333333333333" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">MH1 - June 2019</text>
+            <image x="2482.5" y="1745.333333333333" width="70" height="70" href="https://c2.scryfall.com/file/scryfall-symbols/sets/mh1.svg?1631505600" />
+        </g>
+    
+        <g>
+            <!-- Core Set 2020 -->
+            <text x="2022.5" y="1872.6666666666663" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Core Set 2020</text>
+            <text x="2022.5" y="1912.6666666666663" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">M20 - July 2019</text>
+            <image x="2482.5" y="1862.6666666666663" width="70" height="70" href="https://c2.scryfall.com/file/scryfall-symbols/sets/m20.svg?1631505600" />
+        </g>
+    
+
+    <g>
+        <!-- Horizontal cutting guides -->
+        
+            <line x1="100.0" y1="200.0" x2="160.0" y2="200.0" stroke="black" stroke-width="2" />
+        
+            <line x1="2690.0" y1="200.0" x2="2630.0" y2="200.0" stroke="black" stroke-width="2" />
+        
+            <line x1="100.0" y1="317.3333333333333" x2="160.0" y2="317.3333333333333" stroke="black" stroke-width="2" />
+        
+            <line x1="2690.0" y1="317.3333333333333" x2="2630.0" y2="317.3333333333333" stroke="black" stroke-width="2" />
+        
+            <line x1="100.0" y1="434.66666666666663" x2="160.0" y2="434.66666666666663" stroke="black" stroke-width="2" />
+        
+            <line x1="2690.0" y1="434.66666666666663" x2="2630.0" y2="434.66666666666663" stroke="black" stroke-width="2" />
+        
+            <line x1="100.0" y1="552.0" x2="160.0" y2="552.0" stroke="black" stroke-width="2" />
+        
+            <line x1="2690.0" y1="552.0" x2="2630.0" y2="552.0" stroke="black" stroke-width="2" />
+        
+            <line x1="100.0" y1="669.3333333333333" x2="160.0" y2="669.3333333333333" stroke="black" stroke-width="2" />
+        
+            <line x1="2690.0" y1="669.3333333333333" x2="2630.0" y2="669.3333333333333" stroke="black" stroke-width="2" />
+        
+            <line x1="100.0" y1="786.6666666666666" x2="160.0" y2="786.6666666666666" stroke="black" stroke-width="2" />
+        
+            <line x1="2690.0" y1="786.6666666666666" x2="2630.0" y2="786.6666666666666" stroke="black" stroke-width="2" />
+        
+            <line x1="100.0" y1="904.0" x2="160.0" y2="904.0" stroke="black" stroke-width="2" />
+        
+            <line x1="2690.0" y1="904.0" x2="2630.0" y2="904.0" stroke="black" stroke-width="2" />
+        
+            <line x1="100.0" y1="1021.3333333333333" x2="160.0" y2="1021.3333333333333" stroke="black" stroke-width="2" />
+        
+            <line x1="2690.0" y1="1021.3333333333333" x2="2630.0" y2="1021.3333333333333" stroke="black" stroke-width="2" />
+        
+            <line x1="100.0" y1="1138.6666666666665" x2="160.0" y2="1138.6666666666665" stroke="black" stroke-width="2" />
+        
+            <line x1="2690.0" y1="1138.6666666666665" x2="2630.0" y2="1138.6666666666665" stroke="black" stroke-width="2" />
+        
+            <line x1="100.0" y1="1256.0" x2="160.0" y2="1256.0" stroke="black" stroke-width="2" />
+        
+            <line x1="2690.0" y1="1256.0" x2="2630.0" y2="1256.0" stroke="black" stroke-width="2" />
+        
+            <line x1="100.0" y1="1373.3333333333333" x2="160.0" y2="1373.3333333333333" stroke="black" stroke-width="2" />
+        
+            <line x1="2690.0" y1="1373.3333333333333" x2="2630.0" y2="1373.3333333333333" stroke="black" stroke-width="2" />
+        
+            <line x1="100.0" y1="1490.6666666666665" x2="160.0" y2="1490.6666666666665" stroke="black" stroke-width="2" />
+        
+            <line x1="2690.0" y1="1490.6666666666665" x2="2630.0" y2="1490.6666666666665" stroke="black" stroke-width="2" />
+        
+            <line x1="100.0" y1="1608.0" x2="160.0" y2="1608.0" stroke="black" stroke-width="2" />
+        
+            <line x1="2690.0" y1="1608.0" x2="2630.0" y2="1608.0" stroke="black" stroke-width="2" />
+        
+            <line x1="100.0" y1="1725.3333333333333" x2="160.0" y2="1725.3333333333333" stroke="black" stroke-width="2" />
+        
+            <line x1="2690.0" y1="1725.3333333333333" x2="2630.0" y2="1725.3333333333333" stroke="black" stroke-width="2" />
+        
+            <line x1="100.0" y1="1842.6666666666665" x2="160.0" y2="1842.6666666666665" stroke="black" stroke-width="2" />
+        
+            <line x1="2690.0" y1="1842.6666666666665" x2="2630.0" y2="1842.6666666666665" stroke="black" stroke-width="2" />
+        
+            <line x1="100.0" y1="1960.0" x2="160.0" y2="1960.0" stroke="black" stroke-width="2" />
+        
+            <line x1="2690.0" y1="1960.0" x2="2630.0" y2="1960.0" stroke="black" stroke-width="2" />
+        
+
+        <!-- Vertical cutting guides -->
+        
+            <line x1="200.0" y1="100.0" x2="200.0" y2="160.0" stroke="black" stroke-width="2" />
+        
+            <line x1="200.0" y1="2060.0" x2="200.0" y2="2000.0" stroke="black" stroke-width="2" />
+        
+            <line x1="797.5" y1="100.0" x2="797.5" y2="160.0" stroke="black" stroke-width="2" />
+        
+            <line x1="797.5" y1="2060.0" x2="797.5" y2="2000.0" stroke="black" stroke-width="2" />
+        
+            <line x1="1395.0" y1="100.0" x2="1395.0" y2="160.0" stroke="black" stroke-width="2" />
+        
+            <line x1="1395.0" y1="2060.0" x2="1395.0" y2="2000.0" stroke="black" stroke-width="2" />
+        
+            <line x1="1992.5" y1="100.0" x2="1992.5" y2="160.0" stroke="black" stroke-width="2" />
+        
+            <line x1="1992.5" y1="2060.0" x2="1992.5" y2="2000.0" stroke="black" stroke-width="2" />
+        
+            <line x1="2590.0" y1="100.0" x2="2590.0" y2="160.0" stroke="black" stroke-width="2" />
+        
+            <line x1="2590.0" y1="2060.0" x2="2590.0" y2="2000.0" stroke="black" stroke-width="2" />
+        
+    </g>
+
+</svg>
